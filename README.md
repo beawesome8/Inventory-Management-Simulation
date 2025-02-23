@@ -37,19 +37,19 @@ This project performs a Monte Carlo simulation for inventory management. It simu
 
 ## Parameters
 
--num_simulations: Number of simulations to run for each supplier.
+- num_simulations: Number of simulations to run for each supplier.
 
--num_days: Number of days to simulate in each simulation.
+- num_days: Number of days to simulate in each simulation.
 
--mean_demand: Mean daily demand for the product.
+- mean_demand: Mean daily demand for the product.
 
--std_demand: Standard deviation of the daily demand.
+- std_demand: Standard deviation of the daily demand.
 
--daily_holding_cost: Cost of holding one unit of inventory per day.
+- daily_holding_cost: Cost of holding one unit of inventory per day.
 
--daily_shortage_cost: Cost of shortage per unit per day.
+- daily_shortage_cost: Cost of shortage per unit per day.
 
--delivery_time: Dictionary containing the delivery times for different suppliers.
+- delivery_time: Dictionary containing the delivery times for different suppliers.
 
 ## Simulation Function
 
