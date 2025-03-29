@@ -21,11 +21,11 @@ This project performs a Monte Carlo simulation for inventory management. It simu
 
 2. Create and activate a virtual environment:
 
-   python -m venv env
-  source env/Scripts/activate  # On Windows
-  # source env/bin/activate    # On macOS/Linux
+- python -m venv env
+- source env/Scripts/activate  # On Windows
+- source env/bin/activate    # On macOS/Linux
 
-3. Install the required packages
+4. Install the required packages
 
    pip install -r requirements.txt
 
